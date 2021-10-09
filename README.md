@@ -39,7 +39,12 @@ use
           netG.apply(weights_init)
        
        
-to have weights in the network       
+to have weights in the network     
+
+
+
+For more examples see
+https://github.com/pytorch/examples
 
 
 
