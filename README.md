@@ -11,7 +11,9 @@ use face dataset from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 If you have link of data set use !wget link to download data (type !wget link in the google colab)
 
 use 
+        
         from google.colab import drive
+        
         drive.mount('/gdrive')
       
 to mount google drive  or gdrive     
