@@ -31,6 +31,15 @@ then unzip data by
 
 see one batch of data using 
 
-real_batch = next(iter(dataloader))
+         real_batch = next(iter(dataloader))
+
+
+use 
+
+          netG.apply(weights_init)
+       
+       
+to have weights in the network       
+
 
 
