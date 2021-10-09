@@ -18,6 +18,16 @@ use
       
 to mount google drive  or gdrive     
       
+use linux command like 
+
+         !cp '/gdrive/My Drive/img_align_celeba.zip' /content
+
+to put all things in content
+
+then unzip data by
+
+          !unzip img_align_celeba.zip
+
 
 
 
