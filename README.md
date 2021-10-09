@@ -29,6 +29,8 @@ then unzip data by
           !unzip img_align_celeba.zip
 
 
+see one batch of data using 
 
+real_batch = next(iter(dataloader))
 
 
